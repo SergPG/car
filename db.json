@@ -1,9 +1,35 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+   	  {"id": 1, 
+       "img": "http://placehold.it/700x400",  
+       "title": "Project One", 
+       "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae?"
+      },
+      {"id": 2, 
+       "img": "http://placehold.it/700x400",  
+       "title": "Project Two", 
+       "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae?"
+      },
+      {"id": 3, 
+       "img": "http://placehold.it/700x400",  
+       "title": "Project Three", 
+       "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae?"
+      },
+      {"id": 4, 
+       "img": "http://placehold.it/700x400",  
+       "title": "Project Four", 
+       "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae?"
+      },
+      {"id": 5, 
+       "img": "http://placehold.it/700x400",  
+       "title": "Project Five", 
+       "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae!"
+      },
+      {"id": 6, 
+       "img": "http://placehold.it/700x400",  
+       "title": "Project Six", 
+       "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae?"
+      }
   ],
   "profile": {
     "name": "typicode"
